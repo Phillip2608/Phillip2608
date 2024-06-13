@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eu_ophillip/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phillip.dantas.9)
 
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Phillip2608&langs_count=3)
 ![Phillip GitHub stats](https://github-readme-stats.vercel.app/api?username=Phillip2608&show_icons=true&theme=tokyonight)
 
 ### Linguagens que mais utilizo!
